@@ -1,0 +1,43 @@
+.content-wrapper {
+    --padding-top: 5em;
+    width: 90%;
+    align-self: center;
+}
+
+.accordion-wrapper {
+    width: 50%;
+    align-self: flex-end;
+}
+
+.team-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.team-item {
+    width: 12.5em;
+}
+
+#submit-button {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#select-team-select {
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 5px;
+    width: 100%;
+    padding-left: 0.33em;
+    margin-bottom: 0.75em;
+}
+
+#select-team-label {
+    font-size: 1.33em;
+    margin-left: 0.8em;
+}
+
+#select-team-item {
+    margin-top: 0.5em;
+    width: 20em;
+}

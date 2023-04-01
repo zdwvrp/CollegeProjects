@@ -1,0 +1,16 @@
+ion-card{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 15px;
+}
+
+.component-wrapper {
+
+    width: 80%;
+
+}
+
+/* ion-card-title, ion-card-content{
+    margin: 15px;
+} */

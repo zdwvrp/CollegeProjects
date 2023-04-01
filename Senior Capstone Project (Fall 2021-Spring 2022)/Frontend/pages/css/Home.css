@@ -1,0 +1,25 @@
+#game-of-the-day-wrapper {
+    border-bottom: 1px solid white;
+}
+
+#game-of-the-day-game-card {
+    margin-top: 25px;
+}
+
+#game-of-the-day-header {
+    margin-left: 0%;
+    padding-left: 5%;
+}
+
+#login-message {
+    padding-left: 6%;
+    margin-top: 1%;
+    color: rgb(168, 168, 168);
+}
+
+#fav-team-cards-header {
+    margin-left: 0%;
+    padding-left: 5%;
+    padding-top: 4%;
+    border-top: 1px solid rgb(168, 168, 168);
+}

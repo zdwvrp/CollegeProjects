@@ -1,0 +1,14 @@
+#date-time-picker {
+    height: 100%;
+}
+
+ion-datetime {
+    --title-color: black;
+}
+
+#date-header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1% 2% 1% 2%;
+}

@@ -1,0 +1,13 @@
+#loading-overlay {
+    justify-content: center;
+    --padding-top: 2em;
+}
+
+#loading-spinner {
+    width: 100%;
+}
+
+#loading-label {
+    width: 100%;
+    text-align: center;
+}
