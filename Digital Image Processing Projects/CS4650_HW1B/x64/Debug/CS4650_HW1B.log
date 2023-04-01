@@ -1,0 +1,7 @@
+﻿  Part1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+C:\Users\Zach\source\repos\CS4650_HW1B\CS4650_HW1B\Part1.cpp(52,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zach\source\repos\CS4650_HW1B\CS4650_HW1B\Part1.cpp(53,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zach\source\repos\CS4650_HW1B\CS4650_HW1B\Part1.cpp(299,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\CS4650_HW1B\CS4650_HW1B\Part1.cpp(300,14): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  CS4650_HW1B.vcxproj -> C:\Users\Zach\source\repos\CS4650_HW1B\x64\Debug\CS4650_HW1B.exe

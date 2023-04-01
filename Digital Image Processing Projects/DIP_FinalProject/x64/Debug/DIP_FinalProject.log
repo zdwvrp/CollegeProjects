@@ -1,0 +1,33 @@
+﻿  Crossword.cpp
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(82,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(82,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(82,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(82,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(83,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(83,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(83,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(83,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(84,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(84,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(84,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(84,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(183,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(184,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(199,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(200,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(328,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(328,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(328,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(328,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(397,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(398,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(403,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(407,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(428,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=uint64
+          ]
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(443,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zach\source\repos\DIP_FinalProject\DIP_FinalProject\Crossword.cpp(450,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  DIP_FinalProject.vcxproj -> C:\Users\Zach\source\repos\DIP_FinalProject\x64\Debug\DIP_FinalProject.exe

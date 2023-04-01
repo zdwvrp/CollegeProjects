@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(166,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(166,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(166,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(166,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(183,55): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Zach\source\repos\zdwvrpHW5\zdwvrpHW5\Main.cpp(183,33): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  zdwvrpHW5.vcxproj -> C:\Users\Zach\source\repos\zdwvrpHW5\x64\Debug\zdwvrpHW5.exe
