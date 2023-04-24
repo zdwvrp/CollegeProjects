@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class Balloon : MonoBehaviour
 {
+
+    public GameObject CheckmarkPrefab;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         
     }
@@ -14,5 +16,19 @@ public class Balloon : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Bee")
+        {
+            Pop();
+        }
+    }
+
+    void Pop()
+    {
+        Instantiate(CheckmarkPrefab, transform.position, transform.rotation);
+        GameManager.S.BalloonPopped(gameObject.name);
     }
 }
